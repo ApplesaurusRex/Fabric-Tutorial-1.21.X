@@ -10,7 +10,7 @@
 	],
 	"contact": {
 		"homepage": "https://www.youtube.com/@applesaurusrex8075",
-		"sources": "https://github.com/ApplesaurusRex/ApplesaurusRex/tree/MC-mod-tutorial"
+		"sources": "https://github.com/ApplesaurusRex/Fabric-Tutorial-1.21.X"
 	},
 	"license": "MIT",
 	"icon": "assets/tutorialmod/icon.png",
